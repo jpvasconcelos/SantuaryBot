@@ -1,0 +1,16 @@
+- verificar se ja tem santuario em uso:
+	- se ja tiver santuario em uso, verificar se tem alguem na fila:
+		- se tiver alguem na fila, avisar que tem fila
+		- se não tiver ninguem na fila, marcar usuario na fila
+	- se não tiver em uso, marcar santuario 
+- mostrar mapas disponiveis e aguardar resposta
+- mostrar andares disponiveis e aguardar resposta
+- mandar mensagem confirmando mapa/andar e aguardar confirmação de um adm
+- registrar santuario por 3 dias
+- mandar uma mensagem lembrete 6horas antes do santuario acabar e marcar usuario na fila
+	- se não tiver ninguem na fila, marcar @CortEstelar
+
+
+
+
+https://discord.com/developers/applications/992454533739450440/bot
